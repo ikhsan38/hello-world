@@ -1,2 +1,4 @@
 # hello-world
-come to me
+
+Hi iam ikhsan
+lets do some magic!
